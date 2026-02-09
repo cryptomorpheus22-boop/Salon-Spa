@@ -68,7 +68,7 @@ Ready for GitHub + Netlify deployment:
 ## 📞 Contact
 
 **Kgaile Digital Solutions**
-- Demo WhatsApp: +267 71 234 567
+- Demo WhatsApp: +267 78 496 552
 - Location: Gaborone, Botswana
 
 ---
