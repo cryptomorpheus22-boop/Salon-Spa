@@ -60,10 +60,10 @@ Bookings are saved to `localStorage` for demo persistence.
 
 ## 🚀 Deployment
 
-Ready for GitHub + Netlify deployment:
+Ready for GitHub + cPanel deployment:
 - No build step required
 - Static files only
-- Add `netlify.toml` for custom redirects if needed
+- Ensure .htaccess is present for routing
 
 ## 📞 Contact
 
